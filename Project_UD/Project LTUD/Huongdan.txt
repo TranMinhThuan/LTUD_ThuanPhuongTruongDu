@@ -1,0 +1,20 @@
+Chào bạn đến với ứng dụng quản lý kho !
+Tóm tắt:
+***Chức năng :
+- Hệ thống:
+  + Đăng nhập: sử dụng tài khoản để đăng nhập, 
+  nếu chưa có tài khoản bạn cần đăng kí tài khoản.
+  + Quản lý : Cần đăng nhập trước mới truy cập và quản lý kho được.
+  + Thoát: Đóng chương trình.(**)
+- Hổ trợ:
+  + Phản hồi : Nhập ý kiến phản hồi vào ô phản hồi và nhấn 'Gửi'
+  Ngoài ra bạn có thể lưu lại file phản hồi,mở file và format: font, 
+  back ground, ForeColor mà bạn thích.
+  + Hướng dẫn sử dụng: Hướng dãn sử dụng ứng dụng. 
+- Phiên bản: 
+  + Chi tiết phiên  bản: Tên tác giả , ngày sản xuất, thời gian hành.
+**Trang quản lí kho: Sau khi bạn đăng nhập thành công sẽ xuất hiện Form 
+cho người dùng quản lí, gồm các Form hang hóa , nhà SX, Hóa đơn và bạn có thể
+thao tác trên đó như thêm xóa sửa các đối tượng trên đó.
+   
+	

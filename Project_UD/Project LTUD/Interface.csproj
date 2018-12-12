@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1E8FED26-52D2-4F1F-B86A-20E54AE22B1F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Interface</RootNamespace>
+    <AssemblyName>Interface</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DangKi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangKi.Designer.cs">
+      <DependentUpon>DangKi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangnhap.Designer.cs">
+      <DependentUpon>frmDangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNoiDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNoiDung.Designer.cs">
+      <DependentUpon>frmNoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhanHoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhanHoi.Designer.cs">
+      <DependentUpon>frmPhanHoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HangHoa.Designer.cs">
+      <DependentUpon>HangHoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoaDon.Designer.cs">
+      <DependentUpon>HoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhaCungCap.Designer.cs">
+      <DependentUpon>NhaCungCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="pub.cs" />
+    <EmbeddedResource Include="DangKi.resx">
+      <DependentUpon>DangKi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangnhap.resx">
+      <DependentUpon>frmDangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNoiDung.resx">
+      <DependentUpon>frmNoiDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhanHoi.resx">
+      <DependentUpon>frmPhanHoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HangHoa.resx">
+      <DependentUpon>HangHoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoaDon.resx">
+      <DependentUpon>HoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhaCungCap.resx">
+      <DependentUpon>NhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Koala.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Background\khohang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Background\qun li.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Proycontec-Robots-Robot-documents.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Background\robot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Visualpharm-Must-Have-Log-Out.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Aha-Soft-Free-Large-Boss-Admin.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Hopstarter-Soft-Scraps-Button-Log-Off.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Hopstarter-Soft-Scraps-Document-Preview.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Everaldo-Crystal-Clear-App-edit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Icons-Land-Vista-People-Occupations-Technical-Support-Representative-Male-Light.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Iconshock-Vista-General-House.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Custom-Icon-Design-Flatastic-11-Megaphone.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Custom-Icon-Design-Flatastic-11-Customer-service.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Oxygen-Icons.org-Oxygen-Categories-applications-system.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Tatice-Cristal-Intense-Ok.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Custom-Icon-Design-Pretty-Office-7-Save.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Custom-Icon-Design-Pretty-Office-9-Open-file.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Oxygen-Icons.org-Oxygen-Apps-preferences-desktop-font.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Itzikgur-My-Seven-Graphics-Painting.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Iconshock-Real-Vista-Text-Color-fill.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Background\login nen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Everaldo-Crystal-Clear-App-password.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Hopstarter-Soft-Scraps-User-Administrator-Blue.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Oxygen-Icons.org-Oxygen-Actions-edit-delete.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Actions-edit-delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\Icon %28.ico%29\Oxygen-Icons.org-Oxygen-Apps-preferences-desktop-user-password.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Huongdan.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

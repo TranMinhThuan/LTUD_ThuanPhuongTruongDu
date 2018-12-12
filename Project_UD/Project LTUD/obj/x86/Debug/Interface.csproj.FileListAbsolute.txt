@@ -1,0 +1,70 @@
+C:\Users\huynhvanhieu\Documents\Visual Studio 2010\Projects\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\huynhvanhieu\Documents\Visual Studio 2010\Projects\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\huynhvanhieu\Documents\Visual Studio 2010\Projects\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Users\huynhvanhieu\Documents\Visual Studio 2010\Projects\Interface\Interface\obj\x86\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\huynhvanhieu\Documents\Visual Studio 2010\Projects\Interface\Interface\obj\x86\Debug\Interface.exe
+C:\Users\huynhvanhieu\Documents\Visual Studio 2010\Projects\Interface\Interface\obj\x86\Debug\Interface.pdb
+C:\Users\huynhvanhieu\Documents\Visual Studio 2010\Projects\Interface\Interface\obj\x86\Debug\Interface.frmMain.resources
+C:\Users\huynhvanhieu\Documents\Visual Studio 2010\Projects\Interface\Interface\obj\x86\Debug\Interface.frmPhanHoi.resources
+C:\Users\huynhvanhieu\Documents\Visual Studio 2010\Projects\Interface\Interface\obj\x86\Debug\Interface.frmDangnhap.resources
+C:\Users\TanSang\Desktop\Pr UD\Interface\Interface\obj\x86\Debug\Interface.exe
+C:\Users\TanSang\Desktop\Pr UD\Interface\Interface\obj\x86\Debug\Interface.pdb
+C:\Users\TanSang\Desktop\Pr UD\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\TanSang\Desktop\Pr UD\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\TanSang\Desktop\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmDangnhap.resources
+C:\Users\TanSang\Desktop\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmMain.resources
+C:\Users\TanSang\Desktop\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmPhanHoi.resources
+C:\Users\TanSang\Desktop\Pr UD\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+C:\Users\TanSang\Desktop\Pr UD\Interface\Interface\obj\x86\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\TanSang\Desktop\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmNoiDung.resources
+C:\Users\TanSang\Desktop\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmHangHoa.resources
+C:\Users\TanSang\Desktop\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmHoaDon.resources
+C:\Users\TanSang\Desktop\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmNhaCungCap.resources
+C:\Users\TanSang\Desktop\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmDangKi.resources
+D:\Edu\Application Programming\Project\Pr UD\Interface\Interface\obj\x86\Debug\Interface.exe
+D:\Edu\Application Programming\Project\Pr UD\Interface\Interface\obj\x86\Debug\Interface.pdb
+D:\Edu\Application Programming\Project\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmDangKi.resources
+D:\Edu\Application Programming\Project\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmDangnhap.resources
+D:\Edu\Application Programming\Project\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmMain.resources
+D:\Edu\Application Programming\Project\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmNoiDung.resources
+D:\Edu\Application Programming\Project\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmPhanHoi.resources
+D:\Edu\Application Programming\Project\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmHangHoa.resources
+D:\Edu\Application Programming\Project\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmHoaDon.resources
+D:\Edu\Application Programming\Project\Pr UD\Interface\Interface\obj\x86\Debug\Interface.frmNhaCungCap.resources
+D:\Edu\Application Programming\Project\Pr UD\Interface\Interface\obj\x86\Debug\Interface.Properties.Resources.resources
+D:\Edu\Application Programming\Project\Pr UD\Interface\Interface\obj\x86\Debug\Interface.csproj.GenerateResource.Cache
+D:\Edu\Application Programming\Project\Pr UD\Interface\Interface\bin\Debug\Interface.exe
+D:\Edu\Application Programming\Project\Pr UD\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\huynhvanhieu\Documents\Visual Studio 2010\Projects\Project LTUD\obj\x86\Debug\Interface.exe
+C:\Users\huynhvanhieu\Documents\Visual Studio 2010\Projects\Project LTUD\obj\x86\Debug\Interface.pdb
+D:\2.HocTap\8.Lap trinh Ung Dung\PROJECT\Project_UD\Project LTUD\obj\x86\Debug\Interface.exe
+D:\2.HocTap\8.Lap trinh Ung Dung\PROJECT\Project_UD\Project LTUD\obj\x86\Debug\Interface.pdb
+E:\Project_UD\Project LTUD\obj\x86\Debug\Interface.exe
+E:\Project_UD\Project LTUD\obj\x86\Debug\Interface.pdb
+E:\Project_UD\Project LTUD\bin\Debug\Interface.exe
+E:\Project_UD\Project LTUD\bin\Debug\Interface.pdb
+E:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmDangKi.resources
+E:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmDangnhap.resources
+E:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmMain.resources
+E:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmNoiDung.resources
+E:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmPhanHoi.resources
+E:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmHangHoa.resources
+E:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmHoaDon.resources
+E:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmNhaCungCap.resources
+E:\Project_UD\Project LTUD\obj\x86\Debug\Interface.Properties.Resources.resources
+E:\Project_UD\Project LTUD\obj\x86\Debug\Interface.csproj.GenerateResource.Cache
+D:\Project_UD\Project LTUD\obj\x86\Debug\Interface.exe
+D:\Project_UD\Project LTUD\obj\x86\Debug\Interface.pdb
+D:\Project_UD\Project LTUD\bin\Debug\Interface.exe
+D:\Project_UD\Project LTUD\bin\Debug\Interface.pdb
+D:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmDangKi.resources
+D:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmDangnhap.resources
+D:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmMain.resources
+D:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmNoiDung.resources
+D:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmPhanHoi.resources
+D:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmHangHoa.resources
+D:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmHoaDon.resources
+D:\Project_UD\Project LTUD\obj\x86\Debug\Interface.frmNhaCungCap.resources
+D:\Project_UD\Project LTUD\obj\x86\Debug\Interface.Properties.Resources.resources
+D:\Project_UD\Project LTUD\obj\x86\Debug\Interface.csproj.GenerateResource.Cache
+D:\Project_UD\Project LTUD\obj\x86\Debug\Interface.csprojResolveAssemblyReference.cache
